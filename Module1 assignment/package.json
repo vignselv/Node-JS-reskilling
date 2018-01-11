@@ -1,0 +1,16 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "convert csv to json",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "csvtojson": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vigneshwaran",
+  "license": "ISC"
+}
